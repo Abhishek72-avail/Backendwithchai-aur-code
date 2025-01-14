@@ -1,0 +1,20 @@
+{
+  "name": "backendwithchai-aur-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "backend"
+  ],
+  "author": "abhishek",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
