@@ -17,6 +17,11 @@ app.get('/', (req, res) => {
         res.send('wlecome to main page')
  })
 
+ app.get('/login', (req, res) => {
+  res.send('wlecome to login  page')
+})
+
+
     app.get('/youtube', (req,res) => {
         res.send('<h2> welcome to youtube page </h2>')
     })
