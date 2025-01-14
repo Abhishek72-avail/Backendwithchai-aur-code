@@ -9,6 +9,6 @@ what i am learn today so
 2. / : home route
 3. / login: login setup
 
-4. 
+4. add frontend & backend part  using axion | proxy  | cors
 
 5. 
